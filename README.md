@@ -709,17 +709,14 @@ style.css
 
         }
         ```
+        ## OUTPUT:
+       ![OUTPUT](./out1.png)
+       ![Output](./out2.png)
+       ![Output](./out3.png)
+       ![OUTPUT](./out4.png)
+       
+       ## HTML VALIDATOR:
+       ![HTML VALIDATOR](./valid.png)
 
-## OUTPUT:
-
-![OUTPUT](./out1.png)
-![Output](./out2.png)
-![Output](./out3.png)
-![Output](./out4.png)
-
-## HTML VALIDATOR:
-
-![HTML VALIDATOR](./valid.png)
-
-## RESULT:
-The program for designing software company website using HTML and CSS is completed successfully.
+       ## RESULT:
+       The program for designing software company website using HTML and CSS is completed successfully.
