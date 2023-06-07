@@ -88,7 +88,7 @@ home.html
                 </div>
                 <div class="footer">
                 <h2><footer style="color:black">
-                Copyright &copy;2023 Developed by VIKRAM K</footer></div>
+                Copyright &copy;2023 Developed by JIVAN KARTHEC</footer></div>
             </div>
         </div>
     </body>
@@ -296,7 +296,7 @@ product.html
 
                 <div class="footer">
                 <h3><footer style="color:black">
-                Copyright &copy;2023 Developed by VIKRAM K</footer></h3></div>
+                Copyright &copy;2023 Developed by JIVAN KARTHEC</footer></h3></div>
             </div>
         </div>
     </body>
@@ -503,7 +503,7 @@ people.html
                 </div>
                 <div class="footer">
                 <h3><footer style="color:black">
-                Copyright &copy;2023 Developed by VIKRAM K</footer></h3></div>
+                Copyright &copy;2023 Developed by JIVAN KARTHEC</footer></h3></div>
             </div>
         </div>
     </body>
@@ -570,7 +570,7 @@ contact.html
                 </div>
                 <div class="footer">
                 <H3><footer style="color:black">
-                Copyright &copy;2023 Developed by Jivan Karthec</footer></H3></div>
+                Copyright &copy;2023 Developed by JIVAN KARTHEC</footer></H3></div>
             </div>
         </div>
     </body>
