@@ -708,15 +708,16 @@ style.css
             margin-right:auto;
 
         }
-        ```
-        ## OUTPUT:
-       ![OUTPUT](./out1.png)
-       ![Output](./out2.png)
-       ![Output](./out3.png)
-       ![OUTPUT](./out4.png)
-       
-       ## HTML VALIDATOR:
-       ![HTML VALIDATOR](./valid.png)
 
-       ## RESULT:
-       The program for designing software company website using HTML and CSS is completed successfully.
+```
+ ## OUTPUT:
+![OUTPUT](./out1.png)
+![Output](./out2.png)
+![Output](./out3.png)
+![OUTPUT](./out4.png)
+       
+## HTML VALIDATOR:
+![HTML VALIDATOR](./valid.png)
+
+## RESULT:
+The program for designing software company website using HTML and CSS is completed successfully.
